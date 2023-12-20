@@ -48,17 +48,6 @@ function init() {
     RetrieveAllHTMLElements();
     if (DEBUG.ENABLED) { RunTests(); }
 
-    // Show explanation + changelog if we haven't shown it before
-    let last_version = localStorage.getItem(CACHE.LAST_VERSION);
-    if (!last_version) { // New user
-        ShowHelp();
-    }
-    if (last_version && last_version < CURRENT_VERSION) { // Show last changes
-        
-        ShowHelp();
-    }
-    localStorage.setItem(CACHE.LAST_VERSION, CURRENT_VERSION);
-
     // Get last loaded game and load it
     let last_game = localStorage.getItem(CACHE.GAME_LOADED);
     game = undertale;
