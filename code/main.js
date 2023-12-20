@@ -199,7 +199,7 @@ function RetrieveAllHTMLElements() {
                         text.innerHTML += g.config_tracker_author;
                     }
                 }
-                g.unknownCount = g.marks[0][0][1] + g.marks[0][1][1];
+                g.unknownCount = g.marks[0][0][1];
                 text.innerHTML += " (" + g.marks[0][0][1] + " warps)";
 
             div.appendChild(text);

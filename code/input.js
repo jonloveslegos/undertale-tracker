@@ -35,7 +35,7 @@ function OnMouseOut(event) {
         mouse_position = GetLineOrigin();
     }
 }
-function OnResize(event) { SetCanvasDimensions(); }
+function OnResize(event) { init(); }
 
 function OnKeyDown(event) {
     if (!DEBUG.ENABLED) { return; }

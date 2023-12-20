@@ -18,18 +18,18 @@ const MAP_MARK_WIDTH  = 3;
 
 const FRAME_WIDTH  = 167;
 const FRAME_HEIGHT = 47;
-const LINE_YOFFSET = 64;
+const LINE_YOFFSET = 32;
 const LINE_BREAK_YOFFSET = 14;
 
-const MAP_SCALE = 3;
-const LOCATION_SIZE = 2;
+const MAP_SCALE = 2;
+const LOCATION_SIZE = 1;
 const SELECTED_MAP_XOFFSET = 6;
 const WARP_LINE_YOFFSET = 5;
 const WARP_FONT_SIZE    = 13;
 
 const MARKS_YOFFSET    = 15;
 const PROGRESS_YOFFSET = 10;
-const MARK_SIZE        = 64;
+const MARK_SIZE        = 32;
 const MARK_SEPARATION  = 5;
 const UNCHECKED_FILTER = "grayscale(100%) opacity(50%)";
 const MARKFOUND_SIZE  = 1;
@@ -43,8 +43,8 @@ const CONFIG_YOFFSET = 5;
 const CONFIG_XOFFSET = 5;
 const CONFIG_HEIGHT = 40;
 
-const TOOLTIP_SIZEX = 120*2;
-const TOOLTIP_SIZEY = 50*2;
+const TOOLTIP_SIZEX = 120;
+const TOOLTIP_SIZEY = 50;
 const TOOLTIP_XOFFSET = 10;
 const TOOLTIP_YOFFSET = 17;
 const TOOLTIP_CENTERTEXT = 2;
@@ -223,10 +223,6 @@ function ImageLoaded() {
             debug_widths.sort ((a, b) => (a.value > b.value) ? 1 : -1);
             console.log("Heights:", debug_heights, "Widths:", debug_widths);
         }
-
-        // Set canvas dimensions
-        game.right_width  = loading_process.max_width;
-        game.right_height = loading_process.max_height;
         SetDimensions();
 
         html.config.loading_text.innerHTML = "";
@@ -245,6 +241,13 @@ function GetNameImage(path) {
 }
 
 function SetDimensions() {
+
+
+    loading_process.max_width = (window.innerWidth-game.left_width  - 2*CANVAS_MARGIN);
+    loading_process.max_height = (window.innerHeight - 2*CANVAS_MARGIN);
+    // Set canvas dimensions
+    game.right_width  = loading_process.max_width;
+    game.right_height = loading_process.max_height;
     game.layer_width  = game.right_width + game.left_width + SELECTED_MAP_XOFFSET;
     game.layer_height = game.right_height;
 
@@ -842,7 +845,7 @@ function RenderTooltip(context) {
 
         v.y += MARK_SIZE - TOOLTIP_CENTERTEXT;
         v.x += v.w/2;
-        context.font = "bold 28px Avenir";
+        context.font = "bold 14px Avenir";
         context.textAlign = "center";
         context.fillStyle = CHECKS_COLOR;
 

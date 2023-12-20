@@ -137,20 +137,10 @@ function ResetButton() {
 function InitTrackerToUnknowns() {
     for (let key_game in games) {
         // assuming these are always being tracked
-        if (games[key_game].is_item_tracker) {
-            games[key_game].unknown_marks = {
+        games[key_game].unknown_marks = {
                 unknown:           games[key_game].marks[0][0],
-                corridor:          games[key_game].marks[0][1],
 
-                item_event:        games[key_game].marks[1][0],
-            }
-        }
-        else {
-            games[key_game].unknown_marks = {
-                unknown:           games[key_game].marks[0][0],
-                corridor:          games[key_game].marks[0][1],
-            }
-
+               // item_event:        games[key_game].marks[1][0],
         }
         let marks = games[key_game].unknown_marks;
         for (let key in marks) {
