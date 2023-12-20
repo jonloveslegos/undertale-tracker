@@ -52,7 +52,6 @@ function init() {
     let last_version = localStorage.getItem(CACHE.LAST_VERSION);
     if (!last_version) { // New user
         ShowHelp();
-        html.help.changelog.classList.add("config_hidden");
         for (let i = 1; i < CURRENT_VERSION; ++i) {
             html.help.versions[i].classList.add("config_hidden");
         }
@@ -126,7 +125,6 @@ const HTML_ID = {
     },
     help: {
         window: "help_window",
-        changelog: "changelog_header",
         versions: "help_v" // this is an array of size == CURRENT_VERSION
     },
     canvas: "canvas", // + context
@@ -175,7 +173,6 @@ function RetrieveAllHTMLElements() {
     // Retrieve help window elements
     let help    = html.help;
     help.window    = document.getElementById(HTML_ID.help.window);
-    help.changelog = document.getElementById(HTML_ID.help.changelog);
     help.versions = [];
     for (let i = 1; i <= CURRENT_VERSION; ++i) {
         help.versions.push(document.getElementById(HTML_ID.help.versions + i));
