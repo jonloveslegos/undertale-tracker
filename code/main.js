@@ -127,14 +127,8 @@ function RetrieveAllHTMLElements() {
     let config  = html.config;
     config.window           = document.getElementById(HTML_ID.config.window);
     config.loading_text     = document.getElementById(HTML_ID.config.loading_text);
-    config.smooth_checkbox  = document.getElementById(HTML_ID.config.smooth_checkbox);
-    config.fit_to_screen    = document.getElementById(HTML_ID.config.fit_to_screen);
-    config.tooltipsdisabled = document.getElementById(HTML_ID.config.tooltipsdisabled);
     config.line_color       = document.getElementById(HTML_ID.config.line_color);
     config.loading_text.innerHTML = "";
-    config.smooth_checkbox.checked  = (localStorage.getItem(CACHE.SMOOTH_IMAGES)     == "true") ? true : false;
-    config.fit_to_screen.checked    = (localStorage.getItem(CACHE.FIT_TO_SCREEN)     == "false")  ? false  : true;
-    config.tooltipsdisabled.checked = (localStorage.getItem(CACHE.TOOLTIPS_DISABLED) == "true")  ? true  : false;
     config.line_color.value = line_color;
     
     // Retrieve networking elements

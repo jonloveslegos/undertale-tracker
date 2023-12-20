@@ -259,21 +259,13 @@ function SetDimensions() {
 }
 function SetCanvasDimensions() {
     game.canvas_stretched = {};
-    if (html.config.fit_to_screen.checked) {
-        let ratio_w = (window.innerWidth  - 2*CANVAS_MARGIN) / game.layer_width;
-        let ratio_h = (window.innerHeight - 2*CANVAS_MARGIN) / game.layer_height;
-        let ratio = (ratio_w > ratio_h) ? ratio_h : ratio_w;
-        html.canvas.width  = game.layer_width  * ratio;
-        html.canvas.height = game.layer_height * ratio;
-        game.canvas_stretched.width  = ratio;
-        game.canvas_stretched.height = ratio;
-    }
-    else {
-        html.canvas.width  = game.layer_width;
-        html.canvas.height = game.layer_height;
-        game.canvas_stretched.width  = 1;
-        game.canvas_stretched.height = 1;
-    }
+    let ratio_w = (window.innerWidth  - 2*CANVAS_MARGIN) / game.layer_width;
+    let ratio_h = (window.innerHeight - 2*CANVAS_MARGIN) / game.layer_height;
+    let ratio = (ratio_w > ratio_h) ? ratio_h : ratio_w;
+    html.canvas.width  = game.layer_width  * ratio;
+    html.canvas.height = game.layer_height * ratio;
+    game.canvas_stretched.width  = ratio;
+    game.canvas_stretched.height = ratio;
 }
 
 // ██████  ███████ ███    ██ ██████  ███████ ██████  ██ ███    ██  ██████  
@@ -573,7 +565,7 @@ function RenderMarks(context) {
 
 let rendered_location = {};
 function RenderLocation(context) {
-    context.imageSmoothingEnabled = html.config.smooth_checkbox.checked;
+    context.imageSmoothingEnabled = false;
 
     // ----- Render drawing space -----
     let background = {
@@ -800,7 +792,6 @@ function RenderRemainingText(context) {
 }
 
 function RenderTooltip(context) {
-    if (html.config.tooltipsdisabled.checked) { return; }
     if (!current_hovering_mark) { return; }
     cooldown_tooltip -= delta_time;
     if (cooldown_tooltip >= 0) { return; }
