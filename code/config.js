@@ -12,9 +12,6 @@ function ShowHelp() {
 }
 function HideHelp() {
     html.help.window   .classList.add("window_hidden");
-    for (let t of html.help.versions) {
-        t.classList.remove("config_hidden");
-    }
 }
 
 function LoadFile() { loadfile_selector.click(); }

@@ -52,15 +52,9 @@ function init() {
     let last_version = localStorage.getItem(CACHE.LAST_VERSION);
     if (!last_version) { // New user
         ShowHelp();
-        for (let i = 1; i < CURRENT_VERSION; ++i) {
-            html.help.versions[i].classList.add("config_hidden");
-        }
     }
     if (last_version && last_version < CURRENT_VERSION) { // Show last changes
-        for (let i = 0; i < last_version; ++i) {
-            html.help.versions[i].classList.add("config_hidden");
-        }
-
+        
         ShowHelp();
     }
     localStorage.setItem(CACHE.LAST_VERSION, CURRENT_VERSION);
@@ -125,7 +119,6 @@ const HTML_ID = {
     },
     help: {
         window: "help_window",
-        versions: "help_v" // this is an array of size == CURRENT_VERSION
     },
     canvas: "canvas", // + context
 };
@@ -173,10 +166,6 @@ function RetrieveAllHTMLElements() {
     // Retrieve help window elements
     let help    = html.help;
     help.window    = document.getElementById(HTML_ID.help.window);
-    help.versions = [];
-    for (let i = 1; i <= CURRENT_VERSION; ++i) {
-        help.versions.push(document.getElementById(HTML_ID.help.versions + i));
-    }
 
     // Create config buttons
     config.game_buttons = document.getElementById("game_buttons");
