@@ -241,32 +241,32 @@ let undertale = {
 			aaaa4:                                                      {x: 632, y: 173 },
         },
         room_area1_2: {
-			aaaa0:                                                      {x: 153, y: 386 },
-			aaaa1:                                                      {x: 157, y: 180 },
+			//aaaa0:                                                      {x: 153, y: 386 },
+			//aaaa1:                                                      {x: 157, y: 180 },
         },
         room_ruins1: {
-			aaaa0:                                                      {x: 160, y: 427 },
-			aaaa1:                                                      {x: 157, y: 113 },
+			//aaaa0:                                                      {x: 160, y: 427 },
+			//aaaa1:                                                      {x: 157, y: 113 },
         },
         room_ruins2: {
-			aaaa0:                                                      {x: 158, y: 206 },
-			aaaa1:                                                      {x: 140, y: 79 },
+			//aaaa0:                                                      {x: 158, y: 206 },
+			//aaaa1:                                                      {x: 140, y: 79 },
         },
         room_ruins3: {
-			aaaa0:                                                      {x: 140, y: 200 },
-			aaaa1:                                                      {x: 708, y: 147 },
+			//aaaa0:                                                      {x: 140, y: 200 },
+			//aaaa1:                                                      {x: 708, y: 147 },
         },
         room_ruins4: {
-			aaaa0:                                                      {x: 29, y: 154 },
-			aaaa1:                                                      {x: 162, y: 75 },
+			//aaaa0:                                                      {x: 29, y: 154 },
+			//aaaa1:                                                      {x: 162, y: 75 },
         },
         room_ruins5: {
-			aaaa0:                                                      {x: 166, y: 194 },
-			aaaa1:                                                      {x: 1168, y: 107 },
+			//aaaa0:                                                      {x: 166, y: 194 },
+			//aaaa1:                                                      {x: 1168, y: 107 },
         },
         room_ruins6: {
-			aaaa0:                                                      {x: 36, y: 112 },
-			aaaa1:                                                      {x: 2463, y: 107 },
+			//aaaa0:                                                      {x: 36, y: 112 },
+			//aaaa1:                                                      {x: 2463, y: 107 },
         },
         room_ruins7: {
 			aaaa0:                                                      {x: 31, y: 97 },
@@ -274,31 +274,31 @@ let undertale = {
 			aaaa2:                                                      {x: 291, y: 348},
         },
         room_ruins7A: {
-			aaaa0:                                                      {x: 157, y: 197},
+			//aaaa0:                                                      {x: 157, y: 197},
 			//it_candy1:                                                      {x: 124, y: 103, item: "event" },
 			//it_candy2:                                                      {x: 141, y: 102, item: "event" },
 			//it_candy3:                                                      {x: 173, y: 106, item: "event" },
 			//it_candy4:                                                      {x: 190, y: 106, item: "event" },
         },
         room_ruins8: {
-			aaaa0:                                                      {x: 31, y: 107 },
-			aaaa1:                                                      {x: 286, y: 111 },
+			//aaaa0:                                                      {x: 31, y: 107 },
+			//aaaa1:                                                      {x: 286, y: 111 },
         },
         room_ruins9: {
-			aaaa0:                                                      {x: 28, y: 108 },
-			aaaa1:                                                      {x: 449, y: 112 },
+			//aaaa0:                                                      {x: 28, y: 108 },
+			//aaaa1:                                                      {x: 449, y: 112 },
         },
         room_ruins10:         {
-			aaaa0:                                                      {x: 6, y: 117 },
-			aaaa1:                                                      {x: 561, y: 236 },
+			//aaaa0:                                                      {x: 6, y: 117 },
+			//aaaa1:                                                      {x: 561, y: 236 },
 },
         room_ruins11:         {
-			aaaa2:                                                      {x: 8, y: 137 },
-			aaaa3:                                                      {x: 544, y: 138 },
+			//aaaa2:                                                      {x: 8, y: 137 },
+			//aaaa3:                                                      {x: 544, y: 138 },
 },
         room_ruins12A:         {
-			aaaa4:                                                      {x: 7, y: 138 },
-			aaaa5:                                                      {x: 310, y: 140 },
+			//aaaa4:                                                      {x: 7, y: 138 },
+			//aaaa5:                                                      {x: 310, y: 140 },
 },
         room_ruins12:         {
 			aaaa0:                                                      {x: 8, y: 137 },
@@ -306,17 +306,17 @@ let undertale = {
 			aaaa2:                                                      {x: 305, y: 138 },
 },
         room_ruins12B:         {
-			aaaa0:                                                      {x: 4, y: 138 },
+			//aaaa0:                                                      {x: 4, y: 138 },
 			//aaaa1:                                                      {x: 130, y: 101, item: "event" },
 			//aaaa2:                                                      {x: 191, y: 94, item: "event" },
 },
         room_ruins13:         {
-			aaaa0:                                                      {x: 161, y: 289 },
-			aaaa1:                                                      {x: 620, y: 179 },
+			//aaaa0:                                                      {x: 161, y: 289 },
+			//aaaa1:                                                      {x: 620, y: 179 },
 },
         room_ruins14:         {
-			aaaa0:                                                      {x: 10, y: 113 },
-			aaaa1:                                                      {x: 615, y: 171 },
+			//aaaa0:                                                      {x: 10, y: 113 },
+			//aaaa1:                                                      {x: 615, y: 171 },
 			//aaaa2:                                                      {x: 182, y: 666, item: "event" },
 },
         room_ruins15A:         {
@@ -351,16 +351,16 @@ let undertale = {
 			aaaa2:                                                      {x: 571, y: 298 },
 },
         room_ruins17:       {
-			aaaa0:                                                      {x: 16, y: 139 },
-			aaaa1:                                                      {x: 152, y: 71 },
+			//aaaa0:                                                      {x: 16, y: 139 },
+			//aaaa1:                                                      {x: 152, y: 71 },
 },
         room_ruins18OLD:       {
-			aaaa0:                                                      {x: 155, y: 230 },
+			//aaaa0:                                                      {x: 155, y: 230 },
 			//aaaa1:                                                      {x: 49, y: 193, item:"event" },
 },
         room_ruins19:         {
-			aaaa0:                                                      {x: 157, y: 529 },
-			aaaa1:                                                      {x: 152, y: 171 },
+			//aaaa0:                                                      {x: 157, y: 529 },
+			//aaaa1:                                                      {x: 152, y: 171 },
 },
         room_torhouse1:        {
 			aaaa0:                                                      {x: 154, y: 231 },
@@ -369,8 +369,8 @@ let undertale = {
 			aaaa3:                                                      {x: 307, y: 184 },
 },
         room_torhouse2:        {
-			aaaa0:                                                      {x: 68, y: 44 },
-			aaaa1:                                                      {x: 301, y: 163 },
+			//aaaa0:                                                      {x: 68, y: 44 },
+			//aaaa1:                                                      {x: 301, y: 163 },
 },
         room_torhouse3:         {
 			aaaa0:                                                      {x: 1, y: 157 },
@@ -378,47 +378,47 @@ let undertale = {
 			aaaa2:                                                      {x: 372, y: 134 },
 },
         room_torielroom:         {
-			aaaa0:                                                      {x: 116, y: 230 },
+			//aaaa0:                                                      {x: 116, y: 230 },
 },
         room_asrielroom:         {
-			aaaa0:                                                      {x: 207, y: 221 },
+			//aaaa0:                                                      {x: 207, y: 221 },
 			//aaaa1:                                                      {x: 130, y: 136, item:"event" },
 },
         room_kitchen:         {
-			aaaa0:                                                      {x: 62, y: 229 },
+			//aaaa0:                                                      {x: 62, y: 229 },
 },
         room_basement1:      {
-			aaaa0:                                                      {x: 42, y: 105 },
-			aaaa1:                                                      {x: 471, y: 136 },
+			//aaaa0:                                                      {x: 42, y: 105 },
+			//aaaa1:                                                      {x: 471, y: 136 },
 },
         room_basement2:         {
-			aaaa0:                                                      {x: 14, y: 139 },
-			aaaa1:                                                      {x: 482, y: 138 },
+			//aaaa0:                                                      {x: 14, y: 139 },
+			//aaaa1:                                                      {x: 482, y: 138 },
 },
         room_basement3:       {
-			aaaa0:                                                      {x: 12, y: 156 },
-			aaaa1:                                                      {x: 166, y: 21 },
+			//aaaa0:                                                      {x: 12, y: 156 },
+			//aaaa1:                                                      {x: 166, y: 21 },
 },
         room_basement4:         {
-			aaaa0:                                                      {x: 154, y: 228 },
-			aaaa1:                                                      {x: 157, y: 68 },
+		//	aaaa0:                                                      {x: 154, y: 228 },
+			//aaaa1:                                                      {x: 157, y: 68 },
 			//aaaa2:                                                      {x: 158, y: 119, item:"event" },
 },
         room_basement5:         {
-			aaaa0:                                                      {x: 164, y: 1614 },
-			aaaa1:                                                      {x: 150, y: 81 },
+			//aaaa0:                                                      {x: 164, y: 1614 },
+			//aaaa1:                                                      {x: 150, y: 81 },
 },
         room_ruinsexit:         {
-			aaaa0:                                                      {x: 160, y: 411 },
-			aaaa1:                                                      {x: 157, y: 157 },
+			//aaaa0:                                                      {x: 160, y: 411 },
+			//aaaa1:                                                      {x: 157, y: 157 },
 },
         room_tundra1:        {
-			aaaa0:                                                      {x: 39, y: 150 },
-			aaaa1:                                                      {x: 432, y: 187 },
+			//aaaa0:                                                      {x: 39, y: 150 },
+			//aaaa1:                                                      {x: 432, y: 187 },
 },
         room_tundra2:     {
-			aaaa0:                                                      {x: 26, y: 185 },
-			aaaa1:                                                      {x: 2683, y: 184 },
+			//aaaa0:                                                      {x: 26, y: 185 },
+			//aaaa1:                                                      {x: 2683, y: 184 },
 },
         room_tundra3:      {
 			aaaa0:                                                      {x: 8, y: 183 },
@@ -426,15 +426,15 @@ let undertale = {
 			aaaa2:                                                      {x: 386, y: 168 },
 },
         room_tundra3A:     {
-			aaaa0:                                                      {x: 151, y: 234 },
+			//aaaa0:                                                      {x: 151, y: 234 },
 },
         room_tundra4:    {
-			aaaa0:                                                      {x: 11, y: 167 },
-			aaaa1:                                                      {x: 535, y: 181 },
+			//aaaa0:                                                      {x: 11, y: 167 },
+			//aaaa1:                                                      {x: 535, y: 181 },
 },
         room_tundra5:       {
-			aaaa0:                                                      {x: 8, y: 179 },
-			aaaa1:                                                      {x: 442, y: 179 },
+			//aaaa0:                                                      {x: 8, y: 179 },
+			//aaaa1:                                                      {x: 442, y: 179 },
 },
         room_tundra6:      {
 			aaaa0:                                                      {x: 9, y: 175 },
@@ -442,12 +442,12 @@ let undertale = {
 			aaaa2:                                                      {x: 599, y: 158 },
 },
         room_tundra6A:      {
-			aaaa0:                                                      {x: 145, y: 226 },
+			//aaaa0:                                                      {x: 145, y: 226 },
 			//aaaa1:                                                      {x: 150, y: 60,item:"event" },
 },
         room_tundra7:       {
-			aaaa0:                                                      {x: 9, y: 138 },
-			aaaa1:                                                      {x: 307, y: 139 },
+			//aaaa0:                                                      {x: 9, y: 138 },
+			//aaaa1:                                                      {x: 307, y: 139 },
 },
         room_tundra8:       {
 			aaaa0:                                                      {x: 11, y: 140 },
@@ -456,38 +456,38 @@ let undertale = {
 			//aaaa3:                                                      {x: 115, y: 61 ,item:"event"},
 },
         room_tundra8A:      {
-			aaaa0:                                                      {x: 4, y: 144 },
+			//aaaa0:                                                      {x: 4, y: 144 },
 },
         room_tundra9:        {
-			aaaa0:                                                      {x: 15, y: 147 },
-			aaaa1:                                                      {x: 306, y: 145 },
+			//aaaa0:                                                      {x: 15, y: 147 },
+			//aaaa1:                                                      {x: 306, y: 145 },
 },
         room_tundra_spaghetti:      {
-			aaaa0:                                                      {x: 6, y: 146 },
-			aaaa1:                                                      {x: 315, y: 151 },
+			//aaaa0:                                                      {x: 6, y: 146 },
+			//aaaa1:                                                      {x: 315, y: 151 },
 },
         room_tundra_snowpuzz:        {
-			aaaa0:                                                      {x: 6, y: 144 },
-			aaaa1:                                                      {x: 459, y: 554 },
+			//aaaa0:                                                      {x: 6, y: 144 },
+			//aaaa1:                                                      {x: 459, y: 554 },
 },
         room_tundra_xoxosmall:        {
-			aaaa0:                                                      {x: 119, y: 10 },
-			aaaa1:                                                      {x: 485, y: 127 },
+			//aaaa0:                                                      {x: 119, y: 10 },
+			//aaaa1:                                                      {x: 485, y: 127 },
 },
         room_tundra_xoxopuzz:        {
-			aaaa0:                                                      {x: 17, y: 124 },
-			aaaa1:                                                      {x: 792, y: 123 },
+			//aaaa0:                                                      {x: 17, y: 124 },
+			//aaaa1:                                                      {x: 792, y: 123 },
 },
         room_tundra_randoblock:      {
-			aaaa0:                                                      {x: 10, y: 116 },
-			aaaa1:                                                      {x: 307, y: 152 },
+			//aaaa0:                                                      {x: 10, y: 116 },
+			//aaaa1:                                                      {x: 307, y: 152 },
 },
         room_tundra_lesserdog:      {
-			aaaa0:                                                      {x: 9, y: 154 },
-			aaaa1:                                                      {x: 536, y: 126 },
+			//aaaa0:                                                      {x: 9, y: 154 },
+			//aaaa1:                                                      {x: 536, y: 126 },
 },
         room_tundra_icehole:       {
-			aaaa0:                                                      {x: 35, y: 9 },
+			//aaaa0:                                                      {x: 35, y: 9 },
 },
         room_tundra_iceentrance:    {
 			aaaa0:                                                      {x: 6, y: 128 },
@@ -496,20 +496,20 @@ let undertale = {
 			aaaa3:                                                      {x: 927, y: 106 },
 },
         room_tundra_iceexit_new:        {
-			aaaa0:                                                      {x: 18, y: 120 },
-			aaaa1:                                                      {x: 521, y: 17 },
+			//aaaa0:                                                      {x: 18, y: 120 },
+			//aaaa1:                                                      {x: 521, y: 17 },
 },
         room_tundra_iceexit:       {
-			aaaa0:                                                      {x: 579, y: 119 },
-			aaaa1:                                                      {x: 463, y: 89 },
+			//aaaa0:                                                      {x: 579, y: 119 },
+			//aaaa1:                                                      {x: 463, y: 89 },
 },
         room_tundra_poffzone:      {
-			aaaa0:                                                      {x: 8, y: 109 },
-			aaaa1:                                                      {x: 541, y: 155 },
+			//aaaa0:                                                      {x: 8, y: 109 },
+			//aaaa1:                                                      {x: 541, y: 155 },
 },
         room_tundra_dangerbridge:      {
-			aaaa0:                                                      {x: 19, y: 155 },
-			aaaa1:                                                      {x: 1019, y: 140 },
+			//aaaa0:                                                      {x: 19, y: 155 },
+			//aaaa1:                                                      {x: 1019, y: 140 },
 },
         room_tundra_town:        {
 			aaaa0:                                                      {x: 9, y: 132 },
@@ -522,20 +522,20 @@ let undertale = {
 			aaaa7:                                                      {x: 2659, y: 149 },
 },
         room_tundra_town2:       {
-			aaaa0:                                                      {x: 214, y: 216 },
-			aaaa1:                                                      {x: 224, y: 6 },
+			//aaaa0:                                                      {x: 214, y: 216 },
+			//aaaa1:                                                      {x: 224, y: 6 },
 },
         room_tundra_dock:      {
-			aaaa0:                                                      {x: 147, y: 223 },
+		//	aaaa0:                                                      {x: 147, y: 223 },
 },
         room_tundra_inn:       {
-			aaaa0:                                                      {x: 138, y: 221 },
+			//aaaa0:                                                      {x: 138, y: 221 },
 },
         room_tundra_grillby:       {
-			aaaa0:                                                      {x: 173, y: 226 },
+			//aaaa0:                                                      {x: 173, y: 226 },
 },
         room_tundra_library:       {
-			aaaa0:                                                      {x: 163, y: 223 },
+			//aaaa0:                                                      {x: 163, y: 223 },
 },
         room_tundra_sanshouse:      {
 			aaaa0:                                                      {x: 236, y: 229 },
@@ -544,29 +544,29 @@ let undertale = {
 			aaaa3:                                                      {x: 49, y: 48 },
 },
         room_tundra_paproom:       {
-			aaaa0:                                                      {x: 220, y: 223 },
+			//aaaa0:                                                      {x: 220, y: 223 },
 },
         room_tundra_sansroom:       {
-			aaaa0:                                                      {x: 87, y: 225 },
+			//aaaa0:                                                      {x: 87, y: 225 },
 },
         room_fogroom:        {
-			aaaa0:                                                      {x: 6, y: 144 },
-			aaaa1:                                                      {x: 878, y: 143 },
+			//aaaa0:                                                      {x: 6, y: 144 },
+			//aaaa1:                                                      {x: 878, y: 143 },
 },
         room_shop1:        {
-			aaaa0:                                                      {x: 253, y: 200 },
+			//aaaa0:                                                      {x: 253, y: 200 },
 			//aaaa1:                                                      {x: 44, y: 136,item:"event" },
 			//aaaa2:                                                      {x: 43, y: 156,item:"event" },
 			//aaaa3:                                                      {x: 45, y: 186,item:"event" },
 			//aaaa4:                                                      {x: 41, y: 219 ,item:"event"},
 },
         room_water1:        {
-			aaaa0:                                                      {x: 13, y: 151 },
-			aaaa1:                                                      {x: 622, y: 152 },
+			//aaaa0:                                                      {x: 13, y: 151 },
+			//aaaa1:                                                      {x: 622, y: 152 },
 },
         room_water2:     {
-			aaaa0:                                                      {x: 11, y: 145 },
-			aaaa1:                                                      {x: 308, y: 144 },
+			//aaaa0:                                                      {x: 11, y: 145 },
+			//aaaa1:                                                      {x: 308, y: 144 },
 },
         room_water3:      {
 			aaaa0:                                                      {x: 12, y: 128 },
@@ -574,16 +574,16 @@ let undertale = {
 			aaaa2:                                                      {x: 300, y: 43 },
 },
         room_water3A:        {
-			aaaa0:                                                      {x: 142, y: 225 },
+			//aaaa0:                                                      {x: 142, y: 225 },
 			//aaaa1:                                                      {x: 130, y: 104,item:"event" },
 },
         room_water4:      {
-			aaaa0:                                                      {x: 14, y: 292 },
-			aaaa1:                                                      {x: 546, y: 295 },
+			//aaaa0:                                                      {x: 14, y: 292 },
+			//aaaa1:                                                      {x: 546, y: 295 },
 },
         room_water_bridgepuzz1:       {
-			aaaa0:                                                      {x: 12, y: 152 },
-			aaaa1:                                                      {x: 507, y: 146 },
+			//aaaa0:                                                      {x: 12, y: 152 },
+			//aaaa1:                                                      {x: 507, y: 146 },
 },
         room_water5:        {
 			aaaa0:                                                      {x: 19, y: 365 },
@@ -591,28 +591,28 @@ let undertale = {
 			aaaa2:                                                      {x: 127, y: 93 },
 },
         room_water5A:      {
-			aaaa0:                                                      {x: 7, y: 185 },
+			//aaaa0:                                                      {x: 7, y: 185 },
 			//aaaa1:                                                      {x: 162, y: 132 ,item:"event"},
 },
         room_water6:      {
-			aaaa0:                                                      {x: 120, y: 359 },
-			aaaa1:                                                      {x: 510, y: 98 },
+			//aaaa0:                                                      {x: 120, y: 359 },
+			//aaaa1:                                                      {x: 510, y: 98 },
 },
         room_water7:       {
-			aaaa0:                                                      {x: 142, y: 315 },
-			aaaa1:                                                      {x: 1088, y: 152 },
+			//aaaa0:                                                      {x: 142, y: 315 },
+			//aaaa1:                                                      {x: 1088, y: 152 },
 },
         room_water8:       {
-			aaaa0:                                                      {x: 18, y: 189 },
-			aaaa1:                                                      {x: 2073, y: 213 },
+			//aaaa0:                                                      {x: 18, y: 189 },
+			//aaaa1:                                                      {x: 2073, y: 213 },
 },
         room_water9:       {
-			aaaa0:                                                      {x: 12, y: 139 },
-			aaaa1:                                                      {x: 827, y: 139 },
+			//aaaa0:                                                      {x: 12, y: 139 },
+			//aaaa1:                                                      {x: 827, y: 139 },
 },
         room_water_savepoint1:     {
-			aaaa0:                                                      {x: 5, y: 132 },
-			aaaa1:                                                      {x: 308, y: 136 },
+			//aaaa0:                                                      {x: 5, y: 132 },
+			//aaaa1:                                                      {x: 308, y: 136 },
 },
         room_water11:       {
 			aaaa0:                                                      {x: 17, y: 134 },
@@ -621,7 +621,7 @@ let undertale = {
 			aaaa3:                                                      {x: 650, y: 154 },
 },
         room_water_nicecream:   {
-			aaaa0:                                                      {x: 156, y: 432 },
+			//aaaa0:                                                      {x: 156, y: 432 },
 			//aaaa1:                                                      {x: 81, y: 127 ,item:"event"},
 		//	aaaa2:                                                      {x: 238, y: 128 ,item:"event"},
 			//aaaa3:                                                      {x: 117, y: 124 ,item:"event"},
@@ -632,16 +632,16 @@ let undertale = {
 			aaaa2:                                                      {x: 1015, y: 33 },
 },
         room_water_shoe:     {
-			aaaa0:                                                      {x: 303, y: 126 },
+			//aaaa0:                                                      {x: 303, y: 126 },
 		//	aaaa1:                                                      {x: 150, y: 128 ,item:"event"},
 },
         room_water_bird:       {
-			aaaa0:                                                      {x: 16, y: 125 },
-			aaaa1:                                                      {x: 306, y: 131 },
+			//aaaa0:                                                      {x: 16, y: 125 },
+			//aaaa1:                                                      {x: 306, y: 131 },
 },
         room_water_onionsan:     {
-			aaaa0:                                                      {x: 112, y: 223 },
-			aaaa1:                                                      {x: 1187, y: 145 },
+			//aaaa0:                                                      {x: 112, y: 223 },
+			//aaaa1:                                                      {x: 1187, y: 145 },
 },
         room_water14:       {
 			aaaa0:                                                      {x: 11, y: 139 },
@@ -649,52 +649,52 @@ let undertale = {
 			aaaa2:                                                      {x: 712, y: 140 },
 },
         room_water_piano:      {
-			aaaa0:                                                      {x: 143, y: 225 },
+			//aaaa0:                                                      {x: 143, y: 225 },
 },
         room_water_statue:       {
-			aaaa0:                                                      {x: 5, y: 133 },
-			aaaa1:                                                      {x: 303, y: 137 },
+			//aaaa0:                                                      {x: 5, y: 133 },
+			//aaaa1:                                                      {x: 303, y: 137 },
 },
         room_water_prewaterfall:        {
-			aaaa0:                                                      {x: 17, y: 139 },
-			aaaa1:                                                      {x: 315, y: 148 },
+			//aaaa0:                                                      {x: 17, y: 139 },
+			//aaaa1:                                                      {x: 315, y: 148 },
 },
         room_water_waterfall:       {
-			aaaa0:                                                      {x: 8, y: 145 },
-			aaaa1:                                                      {x: 1550, y: 214 },
+			//aaaa0:                                                      {x: 8, y: 145 },
+			//aaaa1:                                                      {x: 1550, y: 214 },
 },
         room_water_waterfall2:     {
-			aaaa0:                                                      {x: 299, y: 922 },
-			aaaa1:                                                      {x: 151, y: 21 },
+			//aaaa0:                                                      {x: 299, y: 922 },
+			//aaaa1:                                                      {x: 151, y: 21 },
 },
         room_water_waterfall3:       {
-			aaaa0:                                                      {x: 25, y: 182 },
-			aaaa1:                                                      {x: 1343, y: 183 },
+		//	aaaa0:                                                      {x: 25, y: 182 },
+			//aaaa1:                                                      {x: 1343, y: 183 },
 },
         room_water_waterfall4:       {
-			aaaa0:                                                      {x: 15, y: 130 },
-			aaaa1:                                                      {x: 496, y: 87 },
+		//	aaaa0:                                                      {x: 15, y: 130 },
+		//	aaaa1:                                                      {x: 496, y: 87 },
 },
         room_water_preundyne:       {
-			aaaa0:                                                      {x: 14, y: 80 },
-			aaaa1:                                                      {x: 712, y: 88 },
+		//	aaaa0:                                                      {x: 14, y: 80 },
+			//aaaa1:                                                      {x: 712, y: 88 },
 },
         room_water_undynebridge:        {
-			aaaa0:                                                      {x: 26, y: 105 },
+			//aaaa0:                                                      {x: 26, y: 105 },
 },
         room_water_trashzone1:       {
-			aaaa0:                                                      {x: 790, y: 122 },
+			//aaaa0:                                                      {x: 790, y: 122 },
 },
         room_water_trashsavepoint:       {
-			aaaa0:                                                      {x: 13, y: 119 },
-			aaaa1:                                                      {x: 307, y: 123 },
+			//aaaa0:                                                      {x: 13, y: 119 },
+			//aaaa1:                                                      {x: 307, y: 123 },
 },
         room_water_trashzone2:       {
-			aaaa0:                                                      {x: 9, y: 792 },
+			//aaaa0:                                                      {x: 9, y: 792 },
 		//	aaaa1:                                                      {x: 222, y: 322 ,item:"event"},
 		//	aaaa2:                                                      {x: 283, y: 354 ,item:"event"},
 			//aaaa3:                                                      {x: 231, y: 392,item:"event" },
-			aaaa4:                                                      {x: 184, y: 46 },
+			//aaaa4:                                                      {x: 184, y: 46 },
 },
         room_water_friendlyhub:       {
 			aaaa0:                                                      {x: 16, y: 117 },
@@ -705,7 +705,7 @@ let undertale = {
 			aaaa5:                                                      {x: 608, y: 108 },
 },
         room_water_undyneyard:        {
-			aaaa0:                                                      {x: 149, y: 233 },
+			//aaaa0:                                                      {x: 149, y: 233 },
 },
         room_water_blookyard:        {
 			aaaa1:                                                      {x: 148, y: 234 },
@@ -714,10 +714,10 @@ let undertale = {
 			aaaa4:                                                      {x: 311, y: 118 },
 },
         room_water_blookhouse:        {
-			aaaa0:                                                      {x: 79, y: 232 },
+			//aaaa0:                                                      {x: 79, y: 232 },
 },
         room_water_hapstablook:        {
-			aaaa0:                                                      {x: 147, y: 232 },
+			//aaaa0:                                                      {x: 147, y: 232 },
 		//	aaaa1:                                                      {x: 73, y: 135,item:"event" },
 			//aaaa2:                                                      {x: 106, y: 118,item:"event" },
 			//aaaa3:                                                      {x: 135, y: 138,item:"event" },
@@ -726,8 +726,8 @@ let undertale = {
 			//aaaa6:                                                      {x: 216, y: 122,item:"event" },
 },
         room_water_farm:        {
-			aaaa0:                                                      {x: 173, y: 217 },
-			aaaa1:                                                      {x: 27, y: 140 },
+			//aaaa0:                                                      {x: 173, y: 217 },
+			//aaaa1:                                                      {x: 27, y: 140 },
 },
         room_water_shop:        {
 			aaaa0:                                                      {x: 16, y: 140 },
@@ -736,18 +736,18 @@ let undertale = {
 			aaaa3:                                                      {x: 302, y: 138 },
 },
         room_shop2:        {
-			aaaa0:                                                      {x: 251, y: 197 },
+			//aaaa0:                                                      {x: 251, y: 197 },
 			//aaaa1:                                                      {x: 27, y: 138,item:"event"  },
 			//aaaa2:                                                      {x: 28, y: 161,item:"event"  },
 		//	aaaa3:                                                      {x: 29, y: 196 ,item:"event" },
 			//aaaa4:                                                      {x: 31, y: 216 ,item:"event" },
 },
         room_water_dock:        {
-			aaaa0:                                                      {x: 154, y: 31 },
+			//aaaa0:                                                      {x: 154, y: 31 },
 },
         room_water15:        {
-			aaaa0:                                                      {x: 24, y: 133 },
-			aaaa1:                                                      {x: 991, y: 130 },
+			//aaaa0:                                                      {x: 24, y: 133 },
+			//aaaa1:                                                      {x: 991, y: 130 },
 },
         room_water16:        {
 			aaaa0:                                                      {x: 13, y: 119 },
@@ -755,41 +755,41 @@ let undertale = {
 			aaaa2:                                                      {x: 591, y: 153 },
 },
         room_water_temvillage:       {
-			aaaa0:                                                      {x: 54, y: 16 },
-			aaaa1:                                                      {x: 330, y: 130 },
+			//aaaa0:                                                      {x: 54, y: 16 },
+			//aaaa1:                                                      {x: 330, y: 130 },
 },
         room_shop5: {
-			aaaa0:                                                      {x: 249, y: 199 },
+			//aaaa0:                                                      {x: 249, y: 199 },
 		//	aaaa1:                                                      {x: 24, y: 136 ,item:"event"},
 		//	aaaa2:                                                      {x: 22, y: 164 ,item:"event"},
 		//	aaaa3:                                                      {x: 27, y: 197 ,item:"event"},
 			//aaaa4:                                                      {x: 21, y: 226 ,item:"event"},
 },
         room_water17:        {
-			aaaa0:                                                      {x: 12, y: 111 },
-			aaaa1:                                                      {x: 628, y: 309 },
+			//aaaa0:                                                      {x: 12, y: 111 },
+			//aaaa1:                                                      {x: 628, y: 309 },
 },
         room_water18:        {
-			aaaa0:                                                      {x: 17, y: 130 },
-			aaaa1:                                                      {x: 350, y: 23 },
+			//aaaa0:                                                      {x: 17, y: 130 },
+			//aaaa1:                                                      {x: 350, y: 23 },
 },
         room_water19:        {
-			aaaa0:                                                      {x: 144, y: 608 },
-			aaaa1:                                                      {x: 308, y: 134 },
+			//aaaa0:                                                      {x: 144, y: 608 },
+			//aaaa1:                                                      {x: 308, y: 134 },
 },
         room_water20:        {
-			aaaa0:                                                      {x: 11, y: 128 },
-			aaaa1:                                                      {x: 593, y: 127 },
+			//aaaa0:                                                      {x: 11, y: 128 },
+			//aaaa1:                                                      {x: 593, y: 127 },
 },
         room_water21:       {
-			aaaa0:                                                      {x: 9, y: 144 },
-			aaaa1:                                                      {x: 306, y: 146 },
+		//	aaaa0:                                                      {x: 9, y: 144 },
+			//aaaa1:                                                      {x: 306, y: 146 },
 },
         room_water_undynefinal:       {
-			aaaa0:                                                      {x: 8, y: 663 },
+			//aaaa0:                                                      {x: 8, y: 663 },
 },
         room_fire2:        {
-			aaaa0:                                                      {x: 302, y: 119 },
+			//aaaa0:                                                      {x: 302, y: 119 },
 },
         room_fire_prelab:      {
 			aaaa0:                                                      {x: 11, y: 118 },
@@ -798,7 +798,7 @@ let undertale = {
 			aaaa3:                                                      {x: 488, y: 140 },
 },
         room_fire_dock:      {
-			aaaa0:                                                      {x: 146, y: 8 },
+			//aaaa0:                                                      {x: 146, y: 8 },
 },
         room_fire_lab1:       {
 			aaaa0:                                                      {x: 23, y: 162 },
@@ -806,15 +806,15 @@ let undertale = {
 			aaaa2:                                                      {x: 1077, y: 133 },
 },
         room_fire_lab2:       {
-			aaaa0:                                                      {x: 436, y: 230 },
+			//aaaa0:                                                      {x: 436, y: 230 },
 },
         room_fire3:        {
-			aaaa0:                                                      {x: 58, y: 234 },
-			aaaa1:                                                      {x: 417, y: 9 },
+			//aaaa0:                                                      {x: 58, y: 234 },
+			//aaaa1:                                                      {x: 417, y: 9 },
 },
         room_fire5:       {
-			aaaa0:                                                      {x: 145, y: 1610 },
-			aaaa1:                                                      {x: 156, y: 10 },
+			//aaaa0:                                                      {x: 145, y: 1610 },
+			//aaaa1:                                                      {x: 156, y: 10 },
 },
         room_fire6:       {
 			aaaa0:                                                      {x: 103, y: 430 },
@@ -822,12 +822,12 @@ let undertale = {
 			aaaa2:                                                      {x: 329, y: 14 },
 },
         room_fire6A:        {
-			aaaa0:                                                      {x: 290, y: 15 },
+			//aaaa0:                                                      {x: 290, y: 15 },
 			//aaaa1:                                                      {x: 140, y: 101 ,item:"event"},
 },
         room_fire_lasers1:    {
-			aaaa0:                                                      {x: 129, y: 223 },
-			aaaa1:                                                      {x: 1149, y: 127 },
+			//aaaa0:                                                      {x: 129, y: 223 },
+			//aaaa1:                                                      {x: 1149, y: 127 },
 },
         room_fire7:      {
 			aaaa0:                                                      {x: 14, y: 458 },
@@ -836,30 +836,30 @@ let undertale = {
 			aaaa3:                                                      {x: 506, y: 266 },
 },
         room_fire8:       {
-			aaaa0:                                                      {x: 340, y: 124 },
-			aaaa1:                                                      {x: 181, y: 83 },
+			//aaaa0:                                                      {x: 340, y: 124 },
+			//aaaa1:                                                      {x: 181, y: 83 },
 },
         room_fire_shootguy_2:      {
-			aaaa0:                                                      {x: 164, y: 226 },
+			//aaaa0:                                                      {x: 164, y: 226 },
 },
         room_fire9:     {
-			aaaa0:                                                      {x: 17, y: 126 },
-			aaaa1:                                                      {x: 176, y: 91 },
+			//aaaa0:                                                      {x: 17, y: 126 },
+			//aaaa1:                                                      {x: 176, y: 91 },
 },
         room_fire_shootguy_1:     {
-			aaaa0:                                                      {x: 157, y: 225 },
+			//aaaa0:                                                      {x: 157, y: 225 },
 },
         room_fire_turn:        {
-			aaaa0:                                                      {x: 171, y: 222 },
-			aaaa1:                                                      {x: 772, y: 106 },
+			//aaaa0:                                                      {x: 171, y: 222 },
+			//aaaa1:                                                      {x: 772, y: 106 },
 },
         room_fire_cookingshow:       {
-			aaaa0:                                                      {x: 35, y: 361 },
-			aaaa1:                                                      {x: 618, y: 365 },
+			//aaaa0:                                                      {x: 35, y: 361 },
+			//aaaa1:                                                      {x: 618, y: 365 },
 },
         room_fire_savepoint1:       {
-			aaaa0:                                                      {x: 16, y: 165 },
-			aaaa1:                                                      {x: 687, y: 166 },
+			//aaaa0:                                                      {x: 16, y: 165 },
+			//aaaa1:                                                      {x: 687, y: 166 },
 },
         room_fire_elevator_r1:        {
 			aaaa0:                                                      {x: 12, y: 167 },
@@ -868,8 +868,8 @@ let undertale = {
 			aaaa0:                                                      {x: 16, y: 124 },
 },
         room_fire_hotdog:        {
-			aaaa0:                                                      {x: 9, y: 128 },
-			aaaa1:                                                      {x: 302, y: 128 },
+			//aaaa0:                                                      {x: 9, y: 128 },
+			//aaaa1:                                                      {x: 302, y: 128 },
 			//aaaa2:                                                      {x: 82, y: 79,item:"event" },
 			//aaaa3:                                                      {x: 91, y: 63 ,item:"event"},
 			//aaaa4:                                                      {x: 110, y: 47 ,item:"event"},
@@ -883,35 +883,35 @@ let undertale = {
 			aaaa3:                                                      {x: 239, y: 10 },
 },
         room_fire_sorry:       {
-			aaaa0:                                                      {x: 171, y: 224 },
+			//aaaa0:                                                      {x: 171, y: 224 },
 },
         room_fire_apron:       {
-			aaaa0:                                                      {x: 142, y: 18 },
+			//aaaa0:                                                      {x: 142, y: 18 },
 			//aaaa1:                                                      {x: 90, y: 111,item:"event" },
 },
         room_fire10:       {
-			aaaa0:                                                      {x: 33, y: 131 },
-			aaaa1:                                                      {x: 809, y: 130 },
+		//	aaaa0:                                                      {x: 33, y: 131 },
+			//aaaa1:                                                      {x: 809, y: 130 },
 },
         room_fire_rpuzzle:       {
-			aaaa0:                                                      {x: 14, y: 162 },
-			aaaa1:                                                      {x: 597, y: 285 },
+			//aaaa0:                                                      {x: 14, y: 162 },
+			//aaaa1:                                                      {x: 597, y: 285 },
 },
         room_fire_mewmew2:       {
-			aaaa0:                                                      {x: 20, y: 146 },
-			aaaa1:                                                      {x: 502, y: 153 },
+			//aaaa0:                                                      {x: 20, y: 146 },
+			//aaaa1:                                                      {x: 502, y: 153 },
 },
         room_fire_boysnightout:       {
-			aaaa0:                                                      {x: 592, y: 345 },
-			aaaa1:                                                      {x: 601, y: 120 },
+			//aaaa0:                                                      {x: 592, y: 345 },
+			//aaaa1:                                                      {x: 601, y: 120 },
 },
         room_fire_newsreport:        {
-			aaaa0:                                                      {x: 47, y: 294 },
-			aaaa1:                                                      {x: 908, y: 14 },
+			//aaaa0:                                                      {x: 47, y: 294 },
+			//aaaa1:                                                      {x: 908, y: 14 },
 },
         room_fire_coreview2:       {
-			aaaa0:                                                      {x: 15, y: 168 },
-			aaaa1:                                                      {x: 631, y: 222 },
+			//aaaa0:                                                      {x: 15, y: 168 },
+			//aaaa1:                                                      {x: 631, y: 222 },
 },
         room_fire_elevator_l2:       {
 			aaaa0:                                                      {x: 298, y: 165 },
@@ -920,8 +920,8 @@ let undertale = {
 			aaaa0:                                                      {x: 298, y: 125 },
 },
         room_fire_spidershop:       {
-			aaaa0:                                                      {x: 14, y: 129 },
-			aaaa1:                                                      {x: 461, y: 126 },
+			//aaaa0:                                                      {x: 14, y: 129 },
+			//aaaa1:                                                      {x: 461, y: 126 },
 },
         room_fire_walkandbranch2:       {
 			aaaa0:                                                      {x: 9, y: 332 },
@@ -930,37 +930,37 @@ let undertale = {
 			aaaa3:                                                      {x: 368, y: 11 },
 },
         room_fire_conveyorlaser:       {
-			aaaa0:                                                      {x: 155, y: 25 },
-			aaaa1:                                                      {x: 848, y: 93 },
+			//aaaa0:                                                      {x: 155, y: 25 },
+			//aaaa1:                                                      {x: 848, y: 93 },
 },
         room_fire_shootguy_3:      {
-			aaaa0:                                                      {x: 173, y: 229 },
+			//aaaa0:                                                      {x: 173, y: 229 },
 },
         room_fire_preshootguy4:       {
-			aaaa0:                                                      {x: 171, y: 309 },
-			aaaa1:                                                      {x: 167, y: 89 },
+			//aaaa0:                                                      {x: 171, y: 309 },
+			//aaaa1:                                                      {x: 167, y: 89 },
 },
         room_fire_shootguy_4:      {
-			aaaa0:                                                      {x: 169, y: 232 },
+			//aaaa0:                                                      {x: 169, y: 232 },
 },
         room_fire_savepoint2:       {
-			aaaa0:                                                      {x: 89, y: 229 },
-			aaaa1:                                                      {x: 480, y: 166 },
+			//aaaa0:                                                      {x: 89, y: 229 },
+			//aaaa1:                                                      {x: 480, y: 166 },
 },
         room_fire_spider:        {
-			aaaa0:                                                      {x: 21, y: 185 },
-			aaaa1:                                                      {x: 1001, y: 182 },
+			//aaaa0:                                                      {x: 21, y: 185 },
+			//aaaa1:                                                      {x: 1001, y: 182 },
 },
         room_fire_pacing:       {
-			aaaa0:                                                      {x: 23, y: 178 },
-			aaaa1:                                                      {x: 306, y: 176 },
+			//aaaa0:                                                      {x: 23, y: 178 },
+			//aaaa1:                                                      {x: 306, y: 176 },
 },
         room_fire_operatest:      {
-			aaaa0:                                                      {x: 4, y: 289 },
-			aaaa1:                                                      {x: 312, y: 289 },
+			//aaaa0:                                                      {x: 4, y: 289 },
+			//aaaa1:                                                      {x: 312, y: 289 },
 },
         room_fire_multitile:       {
-			aaaa0:                                                      {x: 1244, y: 26 },
+			//aaaa0:                                                      {x: 1244, y: 26 },
 },
         room_fire_hotelfront_1:      {
 			aaaa0:                                                      {x: 15, y: 143 },
@@ -981,35 +981,35 @@ let undertale = {
 			aaaa4:                                                      {x: 13, y: 381 },
 },
         room_shop4:       {
-			aaaa0:                                                      {x: 248, y: 199 },
+			//aaaa0:                                                      {x: 248, y: 199 },
 			//aaaa1:                                                      {x: 28, y: 135,item:"event" },
 			//aaaa2:                                                      {x: 27, y: 152,item:"event" },
 			//aaaa3:                                                      {x: 29, y: 184,item:"event" },
 			//aaaa4:                                                      {x: 31, y: 213,item:"event" },
 },
         room_shop3:       {
-			aaaa0:                                                      {x: 248, y: 199 },
+			//aaaa0:                                                      {x: 248, y: 199 },
 			//aaaa1:                                                      {x: 28, y: 135,item:"event" },
 			//aaaa2:                                                      {x: 27, y: 152,item:"event" },
 			//aaaa3:                                                      {x: 29, y: 184,item:"event" },
 			//aaaa4:                                                      {x: 31, y: 213,item:"event" },
 },
         room_fire_restaurant:      {
-			aaaa0:                                                      {x: 991, y: 168 },
+			//aaaa0:                                                      {x: 991, y: 168 },
 },
         room_fire_hoteldoors:       {
-			aaaa0:                                                      {x: 10, y: 181 },
-			aaaa1:                                                      {x: 205, y: 129 },
+			//aaaa0:                                                      {x: 10, y: 181 },
+			//aaaa1:                                                      {x: 205, y: 129 },
 },
         room_fire_hotelbed:        {
-			aaaa0:                                                      {x: 162, y: 231 },
+			//aaaa0:                                                      {x: 162, y: 231 },
 },
         room_fire_elevator_r3:      {
 			aaaa0:                                                      {x: 11, y: 124 },
 },
         room_fire_precore:        {
-			aaaa0:                                                      {x: 159, y: 545 },
-			aaaa1:                                                      {x: 160, y: 101 },
+			//aaaa0:                                                      {x: 159, y: 545 },
+			//aaaa1:                                                      {x: 160, y: 101 },
 },
         room_fire_elevator_l1:        {
 			aaaa0:                                                      {x: 255, y: 232 },
@@ -1021,15 +1021,15 @@ let undertale = {
 			aaaa3:                                                      {x: 277, y: 66 },
 },
         room_fire_core2:    {
-			aaaa0:                                                      {x: 160, y: 328 },
+			//aaaa0:                                                      {x: 160, y: 328 },
 },
         room_fire_core3:      {
-			aaaa0:                                                      {x: 156, y: 403 },
-			aaaa1:                                                      {x: 155, y: 95 },
+			//aaaa0:                                                      {x: 156, y: 403 },
+			//aaaa1:                                                      {x: 155, y: 95 },
 },
         room_fire_core4:       {
-			aaaa0:                                                      {x: 144, y: 221 },
-			aaaa1:                                                      {x: 659, y: 134 },
+			//aaaa0:                                                      {x: 144, y: 221 },
+			//aaaa1:                                                      {x: 659, y: 134 },
 },
         room_fire_core5:       {
 			aaaa0:                                                      {x: 9, y: 128 },
@@ -1037,11 +1037,11 @@ let undertale = {
 			aaaa2:                                                      {x: 299, y: 133 },
 },
         room_fire_core_freebattle:       {
-			aaaa0:                                                      {x: 156, y: 225 },
+			//aaaa0:                                                      {x: 156, y: 225 },
 },
         room_fire_core_laserfun:      {
-			aaaa0:                                                      {x: 9, y: 122 },
-			aaaa1:                                                      {x: 1089, y: 12 },
+			//aaaa0:                                                      {x: 9, y: 122 },
+			//aaaa1:                                                      {x: 1089, y: 12 },
 },
         room_fire_core_branch:        {
 			aaaa0:                                                      {x: 143, y: 220 },
@@ -1050,8 +1050,8 @@ let undertale = {
 			aaaa3:                                                      {x: 304, y: 114 },
 },
         room_fire_core_bottomleft:      {
-			aaaa0:                                                      {x: 299, y: 120 },
-			aaaa1:                                                      {x: 147, y: 9 },
+			//aaaa0:                                                      {x: 299, y: 120 },
+			//aaaa1:                                                      {x: 147, y: 9 },
 },
         room_fire_core_left:       {
 			aaaa0:                                                      {x: 8, y: 112 },
@@ -1081,8 +1081,8 @@ let undertale = {
 			aaaa3:                                                      {x: 308, y: 117 },
 },
         room_fire_core_bottomright:        {
-			aaaa0:                                                      {x: 10, y: 117 },
-			aaaa1:                                                      {x: 145, y: 8 },
+			//aaaa0:                                                      {x: 10, y: 117 },
+			//aaaa1:                                                      {x: 145, y: 8 },
 },
         room_fire_core_center:       {
 			aaaa0:                                                      {x: 304, y: 120 },
@@ -1090,21 +1090,21 @@ let undertale = {
 			aaaa2:                                                      {x: 151, y: 11 },
 },
         room_fire_shootguy_5:       {
-			aaaa0:                                                      {x: 298, y: 193 },
+			//aaaa0:                                                      {x: 298, y: 193 },
 },
         room_fire_core_treasureleft:        {
-			aaaa0:                                                      {x: 146, y: 231 },
+			//aaaa0:                                                      {x: 146, y: 231 },
 			//aaaa1:                                                      {x: 148, y: 108,item:"event" },
 },
         room_fire_core_treasureright:       {
-			aaaa0:                                                      {x: 150, y: 234 },
+			//aaaa0:                                                      {x: 150, y: 234 },
 },
         room_fire_core_warrior:       {
-			aaaa0:                                                      {x: 108, y: 227 },
+			//aaaa0:                                                      {x: 108, y: 227 },
 },
         room_fire_core_bridge:     {
-			aaaa0:                                                      {x: 21, y: 118 },
-			aaaa1:                                                      {x: 595, y: 111 },
+			//aaaa0:                                                      {x: 21, y: 118 },
+			//aaaa1:                                                      {x: 595, y: 111 },
 },
         room_fire_core_premett:     {
 			aaaa0:                                                      {x: 9, y: 113 },
@@ -1112,7 +1112,7 @@ let undertale = {
 			aaaa2:                                                      {x: 241, y: 93 },
 },
         room_fire_core_metttest:      {
-			aaaa0:                                                      {x: 165, y: 983 },
+			//aaaa0:                                                      {x: 165, y: 983 },
 },
         template: {
 
