@@ -35,7 +35,10 @@ function OnMouseOut(event) {
         mouse_position = GetLineOrigin();
     }
 }
-function OnResize(event) { init(); }
+function OnResize(event) {
+    InitRendering();
+    SetDimensions();
+}
 
 function OnKeyDown(event) {
     if (!DEBUG.ENABLED) { return; }
